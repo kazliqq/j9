@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://link-slot-gacor.jmarchini.org/sitemap.xml
